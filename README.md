@@ -12,9 +12,9 @@
 - How to commit code, make pull requests, and collaborate with other users on github
 
 4) LICENSE.md
-- WHAT IS IT
-- WHY WE CHOSE IT
+- What is it
+- Why we chose it
 
 5) CODE-OF-CONTACT.md
-- TELL USERS TO READ CODE-OF-CONDUCT BEFORE MAKING PULL REQUESTS
-- CONTACTS
+- Tell useres to read code-of-conduct before making pull requests
+- Contacts
